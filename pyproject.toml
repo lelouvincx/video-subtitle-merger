@@ -1,7 +1,13 @@
 [project]
 name = "video-subtitle-merger"
+authors = [
+    {name="Chinh Dinh", email="dinhminhchinh3357@gmail.com"}
+]
 version = "0.1.0"
-description = "Add your description here"
+description = "Merge subtitles into a video"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "moviepy>=2.1.2",
+    "webvtt-py>=0.5.1",
+]
