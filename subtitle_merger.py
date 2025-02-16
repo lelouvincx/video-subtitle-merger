@@ -26,7 +26,7 @@ def merge_subtitles(video_path, subtitle_path, output_path):
         print(f"Processing subtitle: {caption.text[:30]}...")
         text_clip = (
             TextClip(
-                font="Inter",
+                font="Arial",
                 text=caption.text,
                 font_size=32,
                 color="white",
