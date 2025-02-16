@@ -1,0 +1,202 @@
+WEBVTT
+
+00:00:00.360 --> 00:00:02.070
+Instructor: All right, so, let's kick things off
+
+00:00:02.070 --> 00:00:05.490
+and talk about our course structure and outline.
+
+00:00:05.490 --> 00:00:08.940
+Now, first and foremost, this is a project-based course
+
+00:00:08.940 --> 00:00:11.340
+and it's for people who want a practical,
+
+00:00:11.340 --> 00:00:14.430
+extremely hands-on and engaging approach
+
+00:00:14.430 --> 00:00:17.940
+to learning Power BI Desktop for business intelligence.
+
+00:00:17.940 --> 00:00:19.050
+Now, along with the course,
+
+00:00:19.050 --> 00:00:20.370
+you're gonna have access to a number
+
+00:00:20.370 --> 00:00:22.620
+of different types of resources.
+
+00:00:22.620 --> 00:00:25.350
+You'll get a downloadable PDF eBook,
+
+00:00:25.350 --> 00:00:27.630
+that's gonna contain all of the core slides,
+
+00:00:27.630 --> 00:00:30.900
+the assignments, the reference materials, and so on.
+
+00:00:30.900 --> 00:00:33.840
+You're also gonna have quizzes at the end of each section
+
+00:00:33.840 --> 00:00:35.550
+and assignments throughout.
+
+00:00:35.550 --> 00:00:37.980
+These are to reinforce key concepts
+
+00:00:37.980 --> 00:00:40.770
+and simulate the types of real world scenarios
+
+00:00:40.770 --> 00:00:43.920
+that data professionals encounter on the job.
+
+00:00:43.920 --> 00:00:45.960
+We've got step-by-step solution videos
+
+00:00:45.960 --> 00:00:47.910
+for each assignment as well.
+
+00:00:47.910 --> 00:00:49.320
+And last but not least,
+
+00:00:49.320 --> 00:00:50.730
+throughout the course you're gonna build
+
+00:00:50.730 --> 00:00:53.370
+an entire professional quality
+
+00:00:53.370 --> 00:00:55.380
+business intelligence dashboard,
+
+00:00:55.380 --> 00:00:59.310
+but we've also provided a complete bonus project at the end
+
+00:00:59.310 --> 00:01:01.860
+to test your abilities and apply the skills
+
+00:01:01.860 --> 00:01:03.510
+that you've developed throughout the course
+
+00:01:03.510 --> 00:01:05.790
+to a brand new data set.
+
+00:01:05.790 --> 00:01:07.950
+Now, shifting gears into our outline here.
+
+00:01:07.950 --> 00:01:10.680
+We've got six sections that we're gonna dig into
+
+00:01:10.680 --> 00:01:13.920
+starting with an introduction to Power BI Desktop.
+
+00:01:13.920 --> 00:01:16.110
+We're gonna talk about installing the program,
+
+00:01:16.110 --> 00:01:18.660
+walk through the high level BI workflow,
+
+00:01:18.660 --> 00:01:22.860
+make some comparisons between Power BI and Excel, and so on.
+
+00:01:22.860 --> 00:01:24.330
+And then we're gonna start digging
+
+00:01:24.330 --> 00:01:27.090
+into the business intelligence workflow,
+
+00:01:27.090 --> 00:01:30.210
+starting with connecting and shaping data.
+
+00:01:30.210 --> 00:01:33.390
+This is where we'll dig into ETL tools for extracting
+
+00:01:33.390 --> 00:01:37.710
+and transforming and loading our raw data into Power BI.
+
+00:01:37.710 --> 00:01:41.610
+Section three is all about taking those data sources
+
+00:01:41.610 --> 00:01:45.090
+and turning them into a relational data model.
+
+00:01:45.090 --> 00:01:47.010
+In this section, we'll cover all sorts
+
+00:01:47.010 --> 00:01:49.770
+of data modeling foundations and fundamentals
+
+00:01:49.770 --> 00:01:52.290
+like cardinality, normalization,
+
+00:01:52.290 --> 00:01:55.890
+primary and foreign keys, filter flow, and so on.
+
+00:01:55.890 --> 00:01:58.410
+And then once we have our model built
+
+00:01:58.410 --> 00:01:59.880
+we're gonna talk about how to add
+
+00:01:59.880 --> 00:02:02.010
+calculated columns and measures
+
+00:02:02.010 --> 00:02:05.610
+using data analysis expressions or DAX.
+
+00:02:05.610 --> 00:02:08.820
+This is where we'll talk about the DAX formula syntax,
+
+00:02:08.820 --> 00:02:11.160
+the difference between columns and measures
+
+00:02:11.160 --> 00:02:13.050
+and we'll review all sorts of common
+
+00:02:13.050 --> 00:02:16.230
+formulas and functions like statistics functions,
+
+00:02:16.230 --> 00:02:18.330
+date and time, text functions,
+
+00:02:18.330 --> 00:02:21.030
+table functions, filter functions, and more.
+
+00:02:21.030 --> 00:02:24.420
+Section five is where we're gonna bring our data to life.
+
+00:02:24.420 --> 00:02:26.700
+This is where Power BI really shines
+
+00:02:26.700 --> 00:02:29.070
+and it's where we'll practice applying all sorts
+
+00:02:29.070 --> 00:02:31.560
+of visualization tools, like charts,
+
+00:02:31.560 --> 00:02:34.560
+graphs, matrix visuals, interactions,
+
+00:02:34.560 --> 00:02:37.020
+bookmarks, filter pans and more,
+
+00:02:37.020 --> 00:02:40.950
+to create our own custom dynamic dashboard.
+
+00:02:40.950 --> 00:02:42.030
+And then last but not least,
+
+00:02:42.030 --> 00:02:43.980
+we're gonna wrap it up with a quick discussion
+
+00:02:43.980 --> 00:02:47.070
+about how to optimize Power BI performance
+
+00:02:47.070 --> 00:02:50.580
+to make sure your reports run quickly and smoothly.
+
+00:02:50.580 --> 00:02:52.200
+So that's our plan of attack.
+
+00:02:52.200 --> 00:02:54.813
+Next up, let's talk about the course project.
